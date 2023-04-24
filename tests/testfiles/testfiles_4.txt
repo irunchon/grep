@@ -1,0 +1,12 @@
+#ifndef SRC_CAT_S21_GREP_H_
+#define SRC_CAT_S21_GREP_H_
+
+#define _POSIX_C_SOURCE 200809L
+
+#include <stdio.h>
+
+#endif  // SRC_CAT_S21_GREP_H_
+
+line with source
+DEF
+SourcE SOURCE
